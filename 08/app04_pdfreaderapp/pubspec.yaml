@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  file_picker: ^8.1.4
+  syncfusion_flutter_pdfviewer: ^27.2.2
 
 
   # The following adds the Cupertino Icons font to your application.
