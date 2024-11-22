@@ -15,6 +15,10 @@ Proyectos Flutter creados en clase del curso **Lenguaje de Programación V**
 - **07/app_lab07**: Formularios: Checkbox, DateTimePicker, Form, RadioButton, Switch, Validaciones
 - **08/app0x_xxxx**: 5 Apps de demostración
 - **09/app_lab09**: Consumo de Api Rest
+- **10/app_lab10**: Local Storage (SharedPreferences, Flutter Secure Storage, Hive, SQLite)
+- **11/app_lab11**: Manejo de estados (Provider, Riverpod, Bloc, GetX)
+![Comparativa de Manejadores de Estado](state_management.png)
+- **12/app_lab12**: Notificaciones (Local y Push)
 
 A few resources to get you started if this is your first Flutter project:
 
