@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "app_lab12_push"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "app_lab12_push-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

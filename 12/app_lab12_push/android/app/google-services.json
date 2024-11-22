@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16339539544",
+    "project_id": "flutterpushapp-10f1b",
+    "storage_bucket": "flutterpushapp-10f1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16339539544:android:1b94cb62aef0738f799c2d",
+        "android_client_info": {
+          "package_name": "com.example.app_lab12_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz8F7DYd8FCwS1MZMdbt-JN_LbtDXTPCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

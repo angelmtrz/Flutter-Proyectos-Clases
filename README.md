@@ -18,7 +18,8 @@ Proyectos Flutter creados en clase del curso **Lenguaje de Programación V**
 - **10/app_lab10**: Local Storage (SharedPreferences, Flutter Secure Storage, Hive, SQLite)
 - **11/app_lab11**: Manejo de estados (Provider, Riverpod, Bloc, GetX)
 ![Comparativa de Manejadores de Estado](state_management.png)
-- **12/app_lab12**: Notificaciones (Local y Push)
+- **12/app_lab12**: Notificaciones Local
+- **12/app_lab12_push**: Notificaciones Push [Firebase Console](https://console.firebase.google.com/)
 
 A few resources to get you started if this is your first Flutter project:
 
